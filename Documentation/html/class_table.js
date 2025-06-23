@@ -1,0 +1,25 @@
+var class_table =
+[
+    [ "Table", "class_table.html#affe40f0b7fbb989296b477de4f23d2e2", null ],
+    [ "Table", "class_table.html#a875b5199dcecbdf2a2430856e4761d6b", null ],
+    [ "~Table", "class_table.html#a9a559f2e7beb37b511ee9f88873164f8", null ],
+    [ "Table", "class_table.html#ab7053d5834f03b959e345cd20be190a7", null ],
+    [ "addColumn", "class_table.html#a421e174f49260a20e248555fe9e904b0", null ],
+    [ "copyFrom", "class_table.html#ab18fe1f3a9be29b60328a5fe518ea55e", null ],
+    [ "deleteRows", "class_table.html#a8a22fbeb00ad9db31f4d666a108b18d3", null ],
+    [ "describe", "class_table.html#a215a8388ee7f3a738d84979c7e67f90b", null ],
+    [ "deserialize", "class_table.html#a4345d12a9839d7426ae96a8110cafaad", null ],
+    [ "exportTo", "class_table.html#aaa4379f5a83f4e7c392ac1726391fcf8", null ],
+    [ "free", "class_table.html#ac5512292b359c7d40b64fd28024fbb67", null ],
+    [ "getColumns", "class_table.html#a849e2e5d1eb9539f28619f3b36ddcbbb", null ],
+    [ "getName", "class_table.html#a63fb5f819ea3222fbdc88acf69374db8", null ],
+    [ "getRowCount", "class_table.html#a506b0e26dc6b29efe69d06cf20f95e80", null ],
+    [ "insertRow", "class_table.html#a6e33af276a695586f4016a5418371c31", null ],
+    [ "modifyColumnType", "class_table.html#a9858a05233ec5855dce91f34c06a51f5", null ],
+    [ "operator=", "class_table.html#a4147a080a37863de7ceb6a210300dcdf", null ],
+    [ "printPaginated", "class_table.html#a9ad340b336afb121c2aa7c926ccca1ed", null ],
+    [ "select", "class_table.html#a07a9c4608b2f8efeb20008ceb9020a09", null ],
+    [ "update", "class_table.html#a2dc44f72a6a4d94d333a77b398fda8cf", null ],
+    [ "columns", "class_table.html#aa1d2f782a1a96dab3323b69561e7d3ff", null ],
+    [ "name", "class_table.html#a776e2cab59507b3b59d475a964e347b8", null ]
+];

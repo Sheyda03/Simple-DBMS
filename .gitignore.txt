@@ -1,0 +1,40 @@
+# Build artifacts
+/build/
+/CMakeFiles/
+/Makefile
+CMakeCache.txt
+cmake_install.cmake
+
+# Object files and binaries
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# Backup and temp files
+*~
+*.tmp
+*.swp
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
+
+# Doxygen output
+/docs/html/
+/docs/latex/
+
+# Generated files
+*.dSYM/
+*.DS_Store
+
+# Project-specific
+bin/
+*.db
+*.sqlite
+*.zip
